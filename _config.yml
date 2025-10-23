@@ -6,5 +6,5 @@ description: Data Scientist with 2+ years of experience in Machine Learning, NLP
 show_downloads: true
 theme: jekyll-theme-minimal
 github:
-  is_project_page: true
+  is_project_page: false
   repository_url: https://github.com/ankurkrr
