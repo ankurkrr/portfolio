@@ -3,8 +3,8 @@ logo: /assests/img/profile.jpg
 description: Data Scientist with 2+ years of experience in Machine Learning, NLP, and AI Automation. 
   Skilled in Python, FastAPI, LangChain, and cloud-based ML deployment. 
   Passionate about building intelligent systems that combine AI + Automation for real-world impact.
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 github:
   is_project_page: false
-  repository_url: https://github.com/ankurkrr
+  repository_url: https://github.com/ankurkrr?tab=repositories
