@@ -80,6 +80,9 @@
 
 ---
 
+[🔗 View My Projects on GitHub](https://github.com/ankurkrr)
+
+---
 
 <p align="center">
   <a href="assets/Ankur_Resume_Data_Science.pdf" download>
