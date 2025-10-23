@@ -78,9 +78,6 @@
 - Deloitte Technology Virtual Program  
 - Geodata Processing
 
----
-
-[🔗 View My Projects on GitHub](https://github.com/ankurkrr)
 
 ---
 
