@@ -1,5 +1,8 @@
 title: Ankur Kumar
 logo: /assests/img/profille.jpg
-#description: 
+description: Data Scientist with 2+ years of experience in Machine Learning, NLP, and AI Automation. 
+  Skilled in Python, FastAPI, LangChain, and cloud-based ML deployment. 
+  Passionate about building intelligent systems that combine AI + Automation for real-world impact.
 show_downloads: true
 theme: jekyll-theme-minimal
+resume: /assets/Ankur_Resume_Data_Science.pdf
