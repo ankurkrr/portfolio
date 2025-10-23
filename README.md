@@ -2,9 +2,7 @@
 
 🎯 **Data Scientist | AI Engineer | Full-Stack ML Developer**
 
-📍 Bangalore, India  
-📧 [ds.ankurx@gmail.com](mailto:ds.ankurx@gmail.com)  
-🔗 [GitHub](https://github.com/ankurkrr) | [LinkedIn](https://linkedin.com/in/ankurkrr)
+📍 Bangalore, India  | 📧 [ds.ankurx@gmail.com](mailto:ds.ankurx@gmail.com)  | 🔗 [GitHub](https://github.com/ankurkrr) | [LinkedIn](https://linkedin.com/in/ankurkrr)
 
 ---
 
