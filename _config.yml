@@ -5,4 +5,6 @@ description: Data Scientist with 2+ years of experience in Machine Learning, NLP
   Passionate about building intelligent systems that combine AI + Automation for real-world impact.
 show_downloads: true
 theme: jekyll-theme-minimal
-resume: /assets/Ankur_Resume_Data_Science.pdf
+github:
+  is_project_page: true
+  repository_url: https://github.com/ankurkrr
