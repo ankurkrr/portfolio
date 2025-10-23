@@ -6,14 +6,6 @@
 
 ---
 
-## 🧠 About Me
-
-I’m a **Data Scientist** with 2+ years of experience in **Machine Learning, NLP, and AI Automation**.  
-I specialize in building intelligent systems — from predictive analytics and chatbots to LLM-powered automation tools.  
-I enjoy solving real-world problems using **Python**, **FastAPI**, and **cloud-native ML pipelines**.
-
----
-
 ## 💼 Experience
 
 ### **Data Scientist — Webin Infosoft Pvt. Ltd. (Oct 2023 – Present)**  
@@ -85,12 +77,6 @@ I enjoy solving real-world problems using **Python**, **FastAPI**, and **cloud-n
 - Python – HackerRank  
 - Deloitte Technology Virtual Program  
 - Geodata Processing  
-
----
-
-## 📄 Resume
-
-👉 [Download My Resume (PDF)](assets/Ankur_Resume_Data_Science.pdf)
 
 ---
 
